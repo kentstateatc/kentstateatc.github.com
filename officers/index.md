@@ -11,9 +11,8 @@ Sophomore, Air Traffic Control Major
 [eperko@kent.edu](mailto:eperko@kent.edu)  
 ![headshot](/assets/images/leadership/Joey.jpg) 
 
-__Zach Conrad, Vice President__  
-Senior, Air Traffic Control Major  
-KSU Student Lab Assistant  
+__Tyler Bliss, Vice President__  
+Sophomore, Air Traffic Control Major   
 [zconrad1@kent.edu](mailto:zconrad1@kent.edu)  
 ![headshot](/assets/images/leadership/ZC.jpg)
 

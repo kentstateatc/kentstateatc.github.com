@@ -10,7 +10,7 @@ __Erika Perko, President__
 Sophomore, Air Traffic Control Major  
 Unmanned Aircraft Systems Minor  
 [eperko@kent.edu](mailto:eperko@kent.edu)  
-![headshot](/assets/images/leadership/EP.jpg) 
+![headshot](/assets/images/leadership/Erika.jpg) 
 
 __Tyler Bliss, Vice President__  
 Sophomore, Air Traffic Control Major   
@@ -33,12 +33,12 @@ Private Pilot
 __Kyle Siber, Treasurer__  
 Sophomore, Air Traffic Control Major     
 [ksiber@kent.edu](mailto:ksiber@kent.edu)  
-![headshot](/assets/images/leadership/KS.jpg) 
+![headshot](/assets/images/leadership/Kyle.jpg) 
 
 __Armand Davis, Social Media Coordinator__  
 Sophomore, Air Traffic Control Major  
 [adavi163@kent.edu](mailto:adavi163@kent.edu)  
-![headshot](/assets/images/leadership/AD.jpg) -->
+![headshot](/assets/images/leadership/Armand.jpg) -->
 
 
 

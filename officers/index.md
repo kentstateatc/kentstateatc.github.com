@@ -10,7 +10,7 @@ __Erika Perko, President__
 Sophomore, Air Traffic Control Major  
 Unmanned Aircraft Systems Minor  
 [eperko@kent.edu](mailto:eperko@kent.edu)  
-![headshot](/assets/images/leadership/Erika.JPG) 
+![headshot](/assets/images/leadership/EP.jpg) 
 
 __Tyler Bliss, Vice President__  
 Sophomore, Air Traffic Control Major   

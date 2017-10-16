@@ -8,14 +8,14 @@ title: KAO Leadership
 
 __Erika Perko, President__  
 Sophomore, Air Traffic Control Major  
-Unmanned Aircraft Systems Minor
+Unmanned Aircraft Systems Minor  
 [eperko@kent.edu](mailto:eperko@kent.edu)  
-![headshot](/assets/images/leadership/Joey.jpg) 
+![headshot](/assets/images/leadership/EP.jpg) 
 
 __Tyler Bliss, Vice President__  
 Sophomore, Air Traffic Control Major   
 [tbliss1@kent.edu](mailto:tbliss1@kent.edu)  
-![headshot](/assets/images/leadership/ZC.jpg)
+![headshot](/assets/images/leadership/TB.jpg)
 
 __Doug Noonan, Clerk of Events__  
 Junior, Air Traffic Control Major  
@@ -28,17 +28,17 @@ __Max Molkentin, Public Relations Director__
 Sophomore, Flight Technology Major  
 Private Pilot  
 [mmolkent@kent.edu](mailto:mmolkent@kent.edu)  
-![headshot](/assets/images/leadership/Keith.jpg)
+![headshot](/assets/images/leadership/MM.jpg)
 
 __Kyle Siber, Treasurer__  
 Sophomore, Air Traffic Control Major     
 [ksiber@kent.edu](mailto:ksiber@kent.edu)  
-![headshot](/assets/images/leadership/Adam.jpg) 
+![headshot](/assets/images/leadership/KS.jpg) 
 
 __Armand Davis, Social Media Coordinator__  
 Sophomore, Air Traffic Control Major  
 [adavi163@kent.edu](mailto:adavi163@kent.edu)  
-![headshot](/assets/images/leadership/XX.jpg) -->
+![headshot](/assets/images/leadership/AD.jpg) -->
 
 
 

@@ -38,7 +38,7 @@ Sophomore, Air Traffic Control Major
 __Armand Davis, Social Media Coordinator__  
 Sophomore, Air Traffic Control Major  
 [adavi163@kent.edu](mailto:adavi163@kent.edu)  
-![headshot](/assets/images/leadership/Armand.jpg) -->
+![headshot](/assets/images/leadership/Armand.jpg)
 
 
 
